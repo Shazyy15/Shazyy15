@@ -81,27 +81,6 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
 
 ---
 
-### 🌟 Projects:
-- **Backend API for E-commerce Platform**  
-  Built backend services using **Kotlin** and **Micronaut** to scale an e-commerce platform.
-  - Integrated **Kafka** for message queuing and **Angular 7** for frontend.
-  - Implemented microservices architecture to improve system performance.
-
-
-### 🚀 Fun Projects & Contributions:
-- **OpenWeather API Integration**  
-  Built an integration with OpenWeather API to fetch real-time weather data using Node.js.
-
-- **GitHub Actions for CI/CD**  
-  Automated project builds and testing using GitHub Actions for continuous integration and deployment.
-
-- **Dockerized Microservices**  
-  Created a multi-container microservice architecture using Docker Compose.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20collaboration-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Open to Collaboration Badge"/>
-</p>
----
 
 
 
@@ -137,6 +116,39 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
 - **[JavaScript Promises Explained](https://gist.github.com/shazilshahid/0987654321fedcba)**  
   A quick guide to understanding and working with JavaScript promises.
 
+---
+
+
+
+### 💻 Open Source Contributions:
+#### **RightTools Desktop App**  
+- Integrated third-party APIs to enhance functionality and improve user experience.
+- Implemented secure and scalable API connections to optimize data retrieval.
+
+#### **Deep Text Search (AI-Based Text Search & Recommendation System)**  
+- Developed a multilingual AI-powered text search engine using transformer-based text embedding supporting 50+ languages.
+
+---
+
+### 🎓 Academic Projects:
+#### **Vacation Tracker**  
+- Designed a vacation tracking tool that automates leave management, streamlining HR workflows.
+
+#### **YouTube Playlist Manager**  
+- Created a user-friendly tool for managing YouTube playlists using YouTube Data API.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20collaboration-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Open to Collaboration Badge"/>
+</p>
+---
+
+### 🏆 Certifications:
+- **Azure Cloud Certification** – Microsoft  
+- **Jira Fundamentals Badge** – Atlassian  
+- **Standard CPR/AED** – National Health and Safety Association  
+- **CompTIA+ Certified**
+
+
+
 ### 📫 Connect with Me:
 <p align="left">
   <a href="mailto:shazil@example.com">
@@ -155,9 +167,6 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
-
-
----
 
 ### 🕒 Weekly Coding Breakdown:
 ```text
