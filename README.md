@@ -12,24 +12,20 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shazilshahid" alt="LinkedIN">
+  <a href="https://www.linkedin.com/in/shazil-shahid" alt="LinkedIN">
     <img width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://replit.com/@ShazilShahid" alt="Replit">
-    <img width="32px" src="https://cdn-icons-png.flaticon.com/512/3059/3059000.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Discord">
-    <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/>
+  <a href="https://github.com/Shazyy15" alt="GitHub">
+    <img width="32px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@shazilshahid" alt="Medium">
     <img width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/shazilshahid">
-    <img width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png"/>
+  <a href="mailto:shaziltoffiq@hotmail.com" alt="Email">
+    <img width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
 </p>
 
@@ -46,16 +42,16 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
 - 🌱 Learning **cloud services** and enhancing my skills in **Kafka messaging systems**.
 - 💬 Ask me about **backend development**, **API design**, or **cloud integration**.
 - 👨‍💻 You can check all my projects in my [GitHub repositories](https://github.com/Shazyy15?tab=repositories).
-- 📫 How to reach me: [shazil@example.com](mailto:shazil@example.com).
+- 📫 How to reach me: [shaziltoffiq@hotmail.com](mailto:shaziltoffiq@hotmail.com).
 
 ---
 
 ### 🚀 Skills:
 #### **Languages**:
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -64,9 +60,8 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -81,9 +76,6 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
 
 ---
 
-
-
-
 ### 📜 Certifications:
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="48" height="48" alt="Java Certificate"/>
@@ -96,7 +88,6 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
   <strong> Cloud Computing</strong>
 </p>
 
-
 ---
 
 ### 📕 Recent Blogs:
@@ -107,18 +98,6 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-
-### 📚 GitHub Gist Repositories:
-- **[Python Data Science Helper Functions](https://gist.github.com/shazilshahid/1234567890abcdef)**  
-  A collection of Python helper functions that speed up common tasks in data analysis.
-
-- **[JavaScript Promises Explained](https://gist.github.com/shazilshahid/0987654321fedcba)**  
-  A quick guide to understanding and working with JavaScript promises.
-
----
-
-
 
 ### 💻 Open Source Contributions:
 #### **RightTools Desktop App**  
@@ -136,9 +115,11 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
 
 #### **YouTube Playlist Manager**  
 - Created a user-friendly tool for managing YouTube playlists using YouTube Data API.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20collaboration-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Open to Collaboration Badge"/>
 </p>
+
 ---
 
 ### 🏆 Certifications:
@@ -147,15 +128,15 @@ Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API de
 - **Standard CPR/AED** – National Health and Safety Association  
 - **CompTIA+ Certified**
 
-
+---
 
 ### 📫 Connect with Me:
 <p align="left">
-  <a href="mailto:shazil@example.com">
+  <a href="mailto:shaziltoffiq@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shazilshahid">
+  <a href="https://www.linkedin.com/in/shazil-shahid">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -174,13 +155,6 @@ Python       12 hrs  ████████████░░░░░░░�
 JavaScript    6 hrs  ████████░░░░░░░░░░░░░░░  30.00%
 SQL           2 hrs  ██░░░░░░░░░░░░░░░░░░░░░  10.00%
 ```
-
-
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shazyy15&theme=onedark&no-frame=true" alt="Trophies" />
-</p>
-
 ---
 
 ### 💻 GitHub Stats:
