@@ -1,3 +1,5 @@
+![shazil](https://github.com/user-attachments/assets/5ce4827e-94ce-4807-8bf6-af6550b65162)
+
 <h3 align="center">
   Welcome to Shazil Shahid's Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -29,13 +31,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shazyy15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me: <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Shazyy15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 Hi, I'm **Shazil Shahid**, a software engineer with a passion for backend API development. I have experience in designing and developing efficient and scalable solutions with a focus on clean architecture and microservices. I'm eager to contribute my skills to innovative teams.
 
 - 🔭 Currently working on **Backend API for an E-commerce Platform** using Kotlin and Micronaut.
