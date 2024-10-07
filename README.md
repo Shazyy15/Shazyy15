@@ -46,22 +46,22 @@ Hi, I'm **Shazil Shahid**, a Software Engineer with a passion for **Backend API 
 <p align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/Shazyy15/PDF-to-Audio-Book-"><img src="https://user-images.githubusercontent.com/project_pdf_to_audio.png" width="200px"/><br><b>PDF to Audio Book</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/Secure-Login-System"><img src="https://user-images.githubusercontent.com/project_secure_login.png" width="200px"/><br><b>Secure Login System</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/Caesar-Cipher-Tool"><img src="https://user-images.githubusercontent.com/project_caesar_cipher.png" width="200px"/><br><b>Caesar Cipher Tool</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/Password-Strength-Checker"><img src="https://user-images.githubusercontent.com/project_password_strength.png" width="200px"/><br><b>Password Strength Checker</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/PDF-to-Audio-Book-"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_pdf_to_audio.png" width="200px"/><br><b>PDF to Audio Book</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/Secure-Login-System"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_secure_login.png" width="200px"/><br><b>Secure Login System</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/Caesar-Cipher-Tool"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_caesar_cipher.png" width="200px"/><br><b>Caesar Cipher Tool</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/Password-Strength-Checker"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_password_strength.png" width="200px"/><br><b>Password Strength Checker</b></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Shazyy15/Movie-Ratings-Analysis"><img src="https://user-images.githubusercontent.com/project_movie_ratings.png" width="200px"/><br><b>Movie Ratings Analysis</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/House-Price-Analysis"><img src="https://user-images.githubusercontent.com/project_house_price.png" width="200px"/><br><b>House Price Analysis</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/Customer-Sales-Analysis"><img src="https://user-images.githubusercontent.com/project_customer_sales.png" width="200px"/><br><b>Customer Sales Analysis</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/Employee-Performance-Analysis"><img src="https://user-images.githubusercontent.com/project_employee_performance.png" width="200px"/><br><b>Employee Performance Analysis</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/Movie-Ratings-Analysis"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_movie_ratings.png" width="200px"/><br><b>Movie Ratings Analysis</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/House-Price-Analysis"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_house_price.png" width="200px"/><br><b>House Price Analysis</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/Customer-Sales-Analysis"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_customer_sales.png" width="200px"/><br><b>Customer Sales Analysis</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/Employee-Performance-Analysis"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_employee_performance.png" width="200px"/><br><b>Employee Performance Analysis</b></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Shazyy15/Remove-Image-Background"><img src="https://user-images.githubusercontent.com/project_remove_background.png" width="200px"/><br><b>Remove Image Background</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/Cyber-Security-Quiz-App"><img src="https://user-images.githubusercontent.com/project_cyber_security_quiz.png" width="200px"/><br><b>Cyber Security Quiz App</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/mass-email-assistant"><img src="https://user-images.githubusercontent.com/project_mass_email.png" width="200px"/><br><b>Mass Email Assistant</b></a></td>
-      <td align="center"><a href="https://github.com/Shazyy15/VACATION-TRACKER"><img src="https://user-images.githubusercontent.com/project_vacation_tracker.png" width="200px"/><br><b>Vacation Tracker</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/Remove-Image-Background"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_remove_background.png" width="200px"/><br><b>Remove Image Background</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/Cyber-Security-Quiz-App"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_cyber_security_quiz.png" width="200px"/><br><b>Cyber Security Quiz App</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/mass-email-assistant"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_mass_email.png" width="200px"/><br><b>Mass Email Assistant</b></a></td>
+      <td align="center"><a href="https://github.com/Shazyy15/VACATION-TRACKER"><img src="https://raw.githubusercontent.com/Shazyy15/Shazyy15/refs/heads/main/project_images/project_vacation_tracker.png" width="200px"/><br><b>Vacation Tracker</b></a></td>
     </tr>
   </table>
 </p>
