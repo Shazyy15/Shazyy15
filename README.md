@@ -114,7 +114,14 @@ SQL          2 hrs  ██░░░░░░░░░░░░░░░░░░
 </details>
 
 ---
+---
 
+### 📊 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shazyy15&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>
