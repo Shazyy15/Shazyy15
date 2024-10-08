@@ -63,59 +63,6 @@ Hi, I'm **Shazil Shahid**, a Software Engineer with a passion for **Backend API 
 
 ---
 
-### 📘 Academic Courses
-
-Below is a comprehensive list of my completed coursework, showcasing my dedication to both foundational and advanced topics across multiple disciplines, including engineering, computer science, and the humanities.
-
-| Course Code  | Course Name                              | Credits | Grade |
-|--------------|------------------------------------------|---------|-------|
-| POS2041      | Government and Politics: US              | 3       | CR    |
-| CIVL         | Civics Literacy Satisfied                | 0       |       |
-| EGN1002      | Fundamentals of Engineering              | 3       | A     |
-| ENC1101      | College Writing 1                        | 3       | A     |
-| INR2002      | Introduction to World Politics           | 3       | B+    |
-| MAT1033      | Intermediate Algebra                     | 3       | B     |
-| SYG1000      | Sociological Perspectives                | 3       | A-    |
-| CHM2045      | General Chemistry 1                      | 3       | B     |
-| CHM2045L     | General Chemistry 1 Lab                  | 1       | A     |
-| COP2220      | Introduction to Programming in C         | 3       | A     |
-| ENC1102      | College Writing 2                        | 3       | B+    |
-| MAC1147      | Precalculus Algebra & Trigonometry       | 5       | A     |
-| COP3014      | Foundations of Computer Science          | 3       | A     |
-| COP3530      | Data Structures & Algorithm Analysis     | 3       | A     |
-| MAC2311      | Calculus Analytic Geometry 1             | 4       | B-    |
-| MAD2104      | Discrete Mathematics                     | 3       | A-    |
-| CDA3201C     | Introduction to Logic Design             | 4       | A     |
-| MAC2312      | Calculus Analytic Geometry 2             | 4       | A     |
-| PHY2048      | General Physics 1                        | 4       | A     |
-| PHY2048L     | General Physics Lab 1                    | 1       | A-    |
-| MAC2313      | Calculus Analytic Geometry 3             | 4       | A     |
-| CDA3331C     | Intro to Microprocessor Systems          | 4       | A     |
-| CEN4010      | Principles of Software Engineering       | 3       | A-    |
-| MAP2302      | Differential Equations 1                 | 3       | B+    |
-| STA4821      | Stochastic Models for CS                 | 3       | A     |
-| CAP4613      | Introduction to Deep Learning            | 3       | A     |
-| COP3813      | Introduction to Internet Computing       | 3       | A     |
-| COP4610      | Computer Operating Systems               | 3       | B     |
-| PHY2049      | General Physics 2                        | 4       | A     |
-| PHY2049L     | General Physics Lab 2                    | 1       | A     |
-| CAP4630      | Introduction to Artificial Intelligence  | 3       | A     |
-| COP3540      | Introduction to Database Structures      | 3       | A     |
-| COP4534      | Object-Oriented Design & Programming     | 3       | A     |
-| AML2600      | Interpretation of Poetry                 | 3       | A     |
-| ARH2000      | Art Appreciation                         | 3       | A     |
-| CDA4210      | Introduction to VLSI                     | 3       | A     |
-| CDA4420C     | Design of Digital Systems and Lab        | 3       | A     |
-| COT4400      | Design & Analysis of Algorithms          | 3       | A     |
-| ANT2000      | Introduction to Anthropology             | 3       | A     |
-| ARH2050      | History of Art 1                         | 3       | A     |
-| CTS1120      | Foundations of Cybersecurity             | 3       | A     |
-| CAP4787      | Mobile App Projects                      | 3       | A     |
-| COP4709      | Theory of Computation                    | 3       | A     |
-| CAP4773      | Introduction to Data Science Analytics   | 3       | A     |
-| EGN4950C     | Engineering Design 1                     | 3       | IP (In Progress) |
-
----
 
 ### 🔨 Featured Projects
 <p align="center">
