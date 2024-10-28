@@ -64,9 +64,14 @@ Hi, I'm **Shazil Shahid**, a Software Engineer with a passion for **Backend API 
 <p align="left">
   <img src="https://img.shields.io/badge/Azure_Arc-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_Seller_Central-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fulfillment_by_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+  
 </p>
 
 #### **Data Analysis & Visualization**
