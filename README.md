@@ -27,9 +27,6 @@
   </a>
 </p>
 
-
-
-
 ---
 
 ### 👨‍💻 About Me
@@ -41,16 +38,49 @@ Hi, I'm **Shazil Shahid**, a Software Engineer with a passion for **Backend API 
 - 📫 Reach me at [shaziltoffiq@hotmail.com](mailto:shaziltoffiq@hotmail.com).
 
 ---
-
-
-
-### 🛠️ Skills
 #### **Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+#### **Programming Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+</p>
+
+#### **Cloud & Data Management**
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure_Arc-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_Seller_Central-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fulfillment_by_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</p>
+
+#### **Data Analysis & Visualization**
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
+</p>
+
+#### **Web Development & Optimization**
+<p align="left">
+  <img src="https://img.shields.io/badge/Front_End_Tuning-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scalable_Architecture-000000?style=for-the-badge&logo=web&logoColor=white"/>
 </p>
 
 #### **Cloud & DevOps**
@@ -63,6 +93,24 @@ Hi, I'm **Shazil Shahid**, a Software Engineer with a passion for **Backend API 
 
 ---
 
+### 🔧 Soft Skills & Experience in
+
+#### **Project Management**
+- Developing and executing strategies to drive conversions and optimize performance
+- Implementing data-driven approaches for operational efficiency
+
+#### **Market & Customer Analysis**
+- Market trend analysis
+- Customer behavior analysis for product opportunity identification
+
+#### **Operations Optimization**
+- Streamlining operations (especially within e-commerce using Amazon tools)
+- Staff scheduling and resource allocation
+
+---
+
+
+---
 
 ### 🔨 Featured Projects
 <p align="center">
